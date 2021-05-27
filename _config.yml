@@ -19,8 +19,8 @@ author:
   name: Admin Earbuds
   twitter: earbuds
   picture: /assets/images/johndoe.png
-twitter_username: earbuds
-github_username: earbuds
+#twitter_username: earbuds
+#github_username: earbuds
 logo: /assets/icons/basically-basic-logo-light.svg
 #google_analytics: UA-2011187-6
 disqus:
@@ -37,7 +37,7 @@ algolia:
 # Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: true
+lsi: false
 incremental: false
 
 # Markdown Processing
