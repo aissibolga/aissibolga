@@ -1,8 +1,10 @@
 ---
 layout: home
+---
+---
 paginate: true
-alt_title: "Basically Basic"
-sub_title: "Your new default Jekyll theme"
+alt_title: "Earbuds"
+sub_title: "Earbuds"
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
   Earbuds Blog is the website about reviewing all things bout Earbuds supported by **EARBUDS**, with a few enhancements thrown in for good measure:
@@ -19,4 +21,4 @@ actions:
   - label: "Download"
     icon: download
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
----
+    ---
