@@ -10,17 +10,17 @@
 # Site Settings
 lang: en-US
 title: "Earbuds Blog"
-email: earbudseuorg@gmail.com
+#email: earbudseuorg@gmail.com
 description: "Earbuds Review, Tips Trick, Guide Earbuds"
 #baseurl: "/jekyll-theme-basically-basic"
 url: "https://earbuds.eu.org"
 #repository: "mmistakes/minimal-mistakes"
 author:
-  name: Admin Earbuds
-  twitter: earbuds
+  name: Dugan Nash
+  twitter: Towlette_Pettetucci
   picture: /assets/images/johndoe.png
-#twitter_username: earbuds
-#github_username: earbuds
+twitter_username: Towlette_Pettetucci
+github_username: Towlette_Pettetucci
 logo: /assets/icons/basically-basic-logo-light.svg
 #google_analytics: UA-2011187-6
 disqus:
